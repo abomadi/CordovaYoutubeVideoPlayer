@@ -6,7 +6,7 @@
 //
 
 #import "YoutubeVideoPlayer.h"
-#import <XCDYouTubeKit.h>
+#import "XCDYouTubeKit.h"
 #import "AVFoundation/AVFoundation.h"
 #import <AVKit/AVKit.h>
 
